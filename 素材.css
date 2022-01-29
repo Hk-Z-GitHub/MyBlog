@@ -1,0 +1,26 @@
+body{
+    background-image: url("background.jpg");
+}
+.firsttitle{
+    font-size: 4em;
+    font-family: 'SimSun';
+    color: rgb(237, 85, 106);
+}
+.secondtitle{
+    color: rgb(98, 22, 36);
+    font-size: 3em;
+    font-family: 'NSimSun';
+}
+.name{
+   text-align: center;
+    font-size: 2em;
+    margin: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(35, 118, 183);
+    font-family: 'KaiTi';
+}
+a:hover{
+    color: rgb(97, 100, 159);
+}
